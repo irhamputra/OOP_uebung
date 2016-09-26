@@ -1,7 +1,16 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: MacbookPro
- * Date: 9/26/16
- * Time: 4:59 PM
- */
+
+
+
+?>
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
